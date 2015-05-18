@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+    <title>DRONE</title>
+    <link rel="stylesheet" type="text/css" href="client.css">
+    <script type="text/javascript" src="jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="socket.io-1.2.0.js"></script>
+    <script type="text/javascript" src="client.js"></script>
+</head>
+<body style="background-image:url('http://localhost:9999'); background-position: center; background-size: cover;">
+	<div id="controls" data-show="no">
+		<div id="main-controls">
+			<button id="button-takeoff" class="control-button">Take off</button>
+			<button id="button-land" class="control-button">Land</button>
+		</div>
+		<div id="rotation-controls">
+			<button id="button-rotate-left" class="control-button">Rotate left</button>
+			<button id="button-rotate-right" class="control-button">Rotate right</button>
+		</div>
+		<div id="height-controls">
+			<button id="button-rise" class="control-button">Rise</button>
+			<button id="button-sink" class="control-button">Sink</button>
+		</div>
+		<div id="movement-controls">
+			<button id="button-forward" class="control-button">Forward</button>
+			<button id="button-backward" class="control-button">Backward</button>
+			<button id="button-left" class="control-button">Left</button>
+			<button id="button-right" class="control-button">Right</button>
+		</div>
+		<div id="other-controls">
+			<button id="button-disable-emergency" class="control-button">Disable emergency</button>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,51 @@
+- K/R: sounds working in response to OSC (tuesday)
+
+- K/R: sound design (tuesday)
+
+- R: lights: spotlight for actor, some stage lights (tuesday)
+
+- R: room reservation (tuesday)
+
+- J: camera (tuesday)
+- J: camera stand (tuesday)
+- J: camera cable (tuesday)
+
+- K: apogee duet (tuesday)
+
+- J: drone dressing (tuesday)
+
+- script (tuesday)
+
+- actor (tuesday)
+
+- actor costume, makeup (tuesday)
+
+- rehearsal with actor (wednesay)
+
+- K/J/R: movie record (wednesday)
+
+- K/J/R: more rehearsal (thursday)
+
+- J: movie edit (thursday)
+
+- R: drone software (friday)
+
+---
+
+SONG
+
+A#	EYES UP
+G	HEAD LEFT
+F 	EYES DOWN
+
+D#	MOUTH WIDE
+C 	MOUTH SMALL
+D# 	MOUTH WIDE
+
+C 	MOUTH SMALL
+D#  MOUTH WIDE
+A# 	EYES UP
+
+C 	MOUTH SMALL
+D#  MOUTH WIDE
+D 	HEAD RIGHT
